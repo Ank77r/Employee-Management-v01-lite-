@@ -4,5 +4,6 @@ sqlalchemy
 pydantic
 email-validator
 python-multipart
-psycopg2-binary  <-- ADD THIS
-python-dotenv    <-- ADD THIS (For security)
+psycopg2-binary 
+
+python-dotenv
